@@ -77,6 +77,7 @@
     "react-dom": "18.2.0",
     "rehype": "^12.0.1",
     "rehype-autolink-headings": "^6.1.1",
+    "rehype-katex": "^6.0.3",
     "rehype-pretty-code": "^0.9.5",
     "rehype-prism-plus": "^1.5.1",
     "rehype-slug": "^5.1.0",
